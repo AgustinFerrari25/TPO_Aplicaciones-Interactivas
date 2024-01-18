@@ -3,4 +3,4 @@ Trabajo practico final realizado para la materia de Aplicaciones Interactivas Se
 
 Para ejecutar todo:
 - Backend_Java: tener Springboot y ajustar el archivo 'application.properties' a la base de datos que desee
-- Fronend_React/myweb: tener React instalado, luego en la terminal correr 'npm install' y despues 'npm start' 
+- Fronend_React/myweb: tener React instalado, en la terminal correr 'npm install' y luego 'npm start' 
